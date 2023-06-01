@@ -67,7 +67,7 @@ and the browser toolbar from the extension's options.
   This search mode is preferred for sites which do not allow the direct linking
   of images, such as private sites.
 - **Capture**: search with a captured area of the page.
-- **Browse**: search with an image from your device. Pasting images
+- **Browse**: search with an image from your device. Pasting images.
   from the clipboard is also supported.
 - **URL**: search with an image URL.
 
