@@ -34,7 +34,7 @@ please consider contributing with
 
 ## Description
 
-Search by Image is a browser extension that makes effortless reverse image
+Search by Image is a browser extension that makes the effortless reverse image
 searches possible, and comes with support for more than 30 search engines.
 
 The extension helps journalists and researchers verify the authenticity
